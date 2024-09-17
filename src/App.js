@@ -1,6 +1,10 @@
 import './App.css'
 import Riddle from "./Pages/Riddle";
-const word = 'computer'
+// const word = 'book'
+
+//const word = 'car'
+const word = 'синтезатор'
+// const word = 'quadrocopter'
 function App() {
   return (
     <div className="App">
